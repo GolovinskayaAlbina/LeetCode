@@ -1,6 +1,6 @@
-# LeetCode 
+# LeetCode   ![Language](https://img.shields.io/badge/language-C%23-orange.svg) 
  
-[Leetcode](https://leetcode.com)  ![Language](https://img.shields.io/badge/language-C%23-orange.svg) 
+[Leetcode](https://leetcode.com)
  
  
 | #	|Title	|Solution	|Time	|Space	|Difficulty|
